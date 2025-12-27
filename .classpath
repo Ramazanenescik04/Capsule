@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-21">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="res"/>
+	<classpathentry kind="lib" path="DikenEngine.jar" sourcepath="/home/ramazanenescik04/eclipse-workspace/DikenEngine/DikenEngine/src"/>
+	<classpathentry kind="lib" path="/home/ramazanenescik04/eclipse-workspace/DikenEngine/DikenEngine/libs/jinput.jar"/>
+	<classpathentry kind="lib" path="/home/ramazanenescik04/eclipse-workspace/DikenEngine/DikenEngine/libs/jna-5.12.1.jar"/>
+	<classpathentry kind="lib" path="/home/ramazanenescik04/eclipse-workspace/DikenEngine/DikenEngine/libs/lwjgl.jar"/>
+	<classpathentry kind="lib" path="/home/ramazanenescik04/eclipse-workspace/DikenEngine/DikenEngine/libs/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="/home/ramazanenescik04/eclipse-workspace/DikenEngine/DikenEngine/libs/ReportBugs.jar"/>
+	<classpathentry kind="lib" path="jVisualScripting-1.4.jar" sourcepath="/home/ramazanenescik04/İndirilenler/jVisualScripting-main.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
