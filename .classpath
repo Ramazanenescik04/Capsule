@@ -7,7 +7,6 @@
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="res"/>
-	<classpathentry kind="lib" path="/home/ramazanenescik04/eclipse-workspace/DikenEngine/DikenEngine/libs/ReportBugs.jar"/>
 	<classpathentry kind="lib" path="/DikenEngine/libs/commons-lang3-3.17.0.jar"/>
 	<classpathentry kind="lib" path="/DikenEngine/libs/jinput.jar" sourcepath="D:/RetroMCP/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5-sources.jar">
 		<attributes>
